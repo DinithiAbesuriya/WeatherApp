@@ -1,0 +1,31 @@
+Create react app
+npx create-react-app .
+
+
+Run react app
+npm start
+
+
+Default app
+Src/App.js
+Remove header tag
+Import logo
+
+Html
+public/index.html
+
+Create new folder under src
+Components 
+  Sub-->Assets
+	WeatherApp
+	   sub-->WeatherApp.jsx
+		type rafce and enter 
+
+
+Verbal
+To install 
+sudo npm i -g vercel
+
+Vercel
+
+
