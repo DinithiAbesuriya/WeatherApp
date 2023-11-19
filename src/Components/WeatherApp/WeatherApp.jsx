@@ -12,8 +12,8 @@ import snow_icon from '../Assets/snow.png';
 
 
 const WeatherApp = () => {
-
-  let api_key="954097f7e5949b32903032d0388d47a8";
+  /*api key generated from https://openweathermap.org/api*/
+  let api_key="";
   /*const[variable name,function name] */
   /*we use wicon to set cloud iconand use fuction(setwicion) to updtae it */
   const[wicon,setWicon]=useState(cloud_icon);
